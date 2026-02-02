@@ -1,4 +1,5 @@
 ## Hello World! 👋
+![pixel-developer-girl-stockcake](https://github.com/user-attachments/assets/ef0e72a9-f335-4a62-b08d-0c94b001a81c)
 
 <!--
 **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
