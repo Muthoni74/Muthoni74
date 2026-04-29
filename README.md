@@ -1,5 +1,5 @@
 ## <head>Hello World! 👋;</head>
-![<img width="1659" height="948" alt="ChatGPT Image Apr 29, 2026, 06_00_32 PM" src="https://github.com/user-attachments/assets/39d658dd-8d80-471a-b428-ad2ba0fff2c0" />
+![<img width="1659" height="948" alt="ChatGPT Image Apr 29, 2026, 06_00_32 PM" src="https://github.com/Muthoni74/assets/39d658dd-8d80-471a-b428-ad2ba0fff2c0" />
 ](https://github.com/user-attachments/assets/ef0e72a9-f335-4a62-b08d-0c94b001a81c)
 
 <!--
