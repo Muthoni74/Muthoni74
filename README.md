@@ -1,5 +1,6 @@
 ## <head>Hello World! 👋;</head>
-![https://chatgpt.com/backend-api/estuary/content?id=file_00000000226471f5bfb03b8c94ea1496&ts=493742&p=fs&cid=1&sig=5d3bcdd13ef9d885378858c8da2928e69e9b91c806abb375625db17dbfe918fa&v=0](https://github.com/user-attachments/assets/ef0e72a9-f335-4a62-b08d-0c94b001a81c)
+![<img width="1659" height="948" alt="ChatGPT Image Apr 29, 2026, 06_00_32 PM" src="https://github.com/user-attachments/assets/39d658dd-8d80-471a-b428-ad2ba0fff2c0" />
+](https://github.com/user-attachments/assets/ef0e72a9-f335-4a62-b08d-0c94b001a81c)
 
 <!--
 **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
