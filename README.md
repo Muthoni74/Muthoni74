@@ -1,6 +1,6 @@
 ## <head>Hello World! 👋;</head>
 <img width="1659" height="948" alt="codergirl" src="https://github.com/user-attachments/assets/4707b130-d856-4460-9719-4b64e9ed380c" />
-<img width="1536" height="791" alt="muthoniWachira" src="https://github.com/user-attachments/assets/2622518b-dfed-4d7a-b5b1-dacda2a761c7" />
+
 <!--
 **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
