@@ -1,4 +1,4 @@
-## <head>Hello World! 👋;</head>
+## <head>Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/>;</head>
 <img width="1659" height="948" alt="codergirl" src="https://github.com/user-attachments/assets/4707b130-d856-4460-9719-4b64e9ed380c" />
 
 <!--
