@@ -1,6 +1,5 @@
 ## <head>Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/>;</head>
 #### Welcome to my Github profile
-
 I am a passionate software development student with a strong interest in software engineering, data science, and artificial intelligence. I am deeply curious about how technology can be used to solve real-world problems and improve everyday life.
 
 My academic journey has allowed me to build a solid foundation in programming, algorithms, and system design. I enjoy exploring different programming languages and tools, and I am particularly interested in understanding how data can be transformed into meaningful insights. The power of data-driven decision-making and intelligent systems fascinates me, especially in areas such as machine learning and automation.
@@ -10,7 +9,7 @@ Beyond technical skills, I value continuous learning, collaboration, and problem
 
 <!--<img width="250" height="150" alt="codergirl" src="https://github.com/user-attachments/assets/4707b130-d856-4460-9719-4b64e9ed380c" />-->
 <img width="920" height="340" alt="1_i5YP_R73BO4E9m6Ki7YAzQ" src="https://github.com/user-attachments/assets/33b01c03-7456-4ca0-9eae-32db55fa0e21" />
-
+<img src="https://komarev.com/ghpvc/?username=Muthoni74&color=orange" alt="Profile Views" />
 <!--
 **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
