@@ -9,6 +9,7 @@ Beyond technical skills, I value continuous learning, collaboration, and problem
 </body>
 
 <!--<img width="250" height="150" alt="codergirl" src="https://github.com/user-attachments/assets/4707b130-d856-4460-9719-4b64e9ed380c" />-->
+<img width="920" height="340" alt="1_i5YP_R73BO4E9m6Ki7YAzQ" src="https://github.com/user-attachments/assets/33b01c03-7456-4ca0-9eae-32db55fa0e21" />
 
 <!--
 **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
