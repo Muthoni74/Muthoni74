@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![committers.top badge](https://user-badge.committers.top/kenya/Muthoni74.svg)](https://user-badge.committers.top/kenya/Muthoni74)
 
 
