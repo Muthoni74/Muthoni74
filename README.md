@@ -10,9 +10,9 @@ Beyond technical skills, I value continuous learning, collaboration, and problem
 <!--<img width="250" height="150" alt="codergirl" src="https://github.com/user-attachments/assets/4707b130-d856-4460-9719-4b64e9ed380c" />-->
 <img width="920" height="340" alt="1_i5YP_R73BO4E9m6Ki7YAzQ" src="https://github.com/user-attachments/assets/33b01c03-7456-4ca0-9eae-32db55fa0e21" />
 <img src="https://komarev.com/ghpvc/?username=Muthoni74&color=orange" alt="Profile Views" />
-<!--[![committers.top badge](https://user-badge.committers.top/kenya/Muthoni74.svg)](https://user-badge.committers.top/kenya/Muthoni74)
-<!--
-**Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--[![committers.top badge](https://user-badge.committers.top/kenya_public/Muthoni74.svg)](https://user-badge.committers.top/kenya_public/Muthoni74)
+
+<!-- **Muthoni74/Muthoni74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
